@@ -1,2 +1,2 @@
-# demand-supply-analytics
+# Demand & Supply Analytics
  All files, codes & notes for each unit in the BAMM103 (Demand & Supply Analytics) MicroMasters of Columbia on edX
